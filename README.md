@@ -6,7 +6,7 @@ A collection of my Graphic Design and UX Design work.
 
 Build and rendered using Cinema4D, experimenting with lighting and colors. I've kept the designs simple, with few textures, relying on geometry to show the designs.
 
-![Alley](https://github.com/HenrySeed/Design-Portfolio/blob/master/3D-Renders/Alley.png "awdawdawd"?raw=true)
+![Alley](https://github.com/HenrySeed/Design-Portfolio/blob/master/3D-Renders/Alley.png?raw=true)
 ![Fire Escape](https://github.com/HenrySeed/Design-Portfolio/blob/master/3D-Renders/Fire-Escape.png?raw=true)
 ![House](https://github.com/HenrySeed/Design-Portfolio/blob/master/3D-Renders/House.png?raw=true)
 ![Park](https://github.com/HenrySeed/Design-Portfolio/blob/master/3D-Renders/Park.png?raw=true)
