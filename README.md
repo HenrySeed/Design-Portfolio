@@ -4,7 +4,7 @@ A collection of my Graphic Design and UX Design work.
 
 ## Interfaces
 
-Ive always enjoyed designing interfaces, weither they are real or fake, the humans interact with software has always intrigued me. Here is a short collection of some of the interface design and web work I have made.
+Ive always enjoyed designing interfaces, weither they are real or fake, the way humans interact with software has always intrigued me. Here is a short collection of some of the interface design and web work I have made.
 
 ![DEF](https://github.com/HenrySeed/Design-Portfolio/blob/master/Interfaces/Def.png?raw=true)
 ![abitpanda1](https://github.com/HenrySeed/Design-Portfolio/blob/master/Interfaces/abitpanda.jpg?raw=true)
@@ -17,7 +17,7 @@ Ive always enjoyed designing interfaces, weither they are real or fake, the huma
 
 ## Logo Design
 
-Logo design probably isnt my strong suite, but thats just more reason to practise. These are all made with Photoshop or Illustrator.
+Logo design isnt really my strong suite, but thats just more reason to practise right?. These are all made with Photoshop or Illustrator.
 
 ![DEF](https://github.com/HenrySeed/Design-Portfolio/blob/master/Logo-Design/Def.png?raw=true)
 ![Jupitor](https://github.com/HenrySeed/Design-Portfolio/blob/master/Logo-Design/Jupitor.png?raw=true)
@@ -35,7 +35,7 @@ In an experiment to teach myself company design guidelines and how you can use t
 
 ## Pixelated Game Elements
 
-Built in pygame, this was a demo of a game build with pixelated tetures. Im happy with how the corgi and the buildings turned out.
+Built in pygame, this was a demo of a game built with pixelated tetures. Im really happy with how the corgi and the buildings turned out.
 
 ![Game 1](https://github.com/HenrySeed/Design-Portfolio/blob/master/8-bit-Adventure-Game/Game_1.png?raw=true)
 ![Game 3](https://github.com/HenrySeed/Design-Portfolio/blob/master/8-bit-Adventure-Game/Game_3.png?raw=true)
@@ -58,7 +58,7 @@ Nothing says you're a hacker like some sweet ASCII art. I always enjoyed making 
 
 ## Illustrations
 
-This is a collection of illustration and graphic design work. Mainly done in Adobe Photoshop and Illustrator, they cover a wide variety of subjects.
+This is a collection of illustration and graphic design work. Mainly done with Adobe Photoshop and Illustrator, they cover a wide variety of subjects.
 
 ![iPhone](https://github.com/HenrySeed/Design-Portfolio/blob/master/Illustrations/iPhoneMockup.png?raw=true)
 ![mathTutor](https://github.com/HenrySeed/Design-Portfolio/blob/master/Illustrations/MathTutorConcepts.png?raw=true)
